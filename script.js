@@ -25,7 +25,7 @@ function handle_scroll() {
       scroll_percent = 0;
     }
     line_counter.innerHTML =
-      "&nbsp;Manual page orhun(1) " + scroll_percent + "%";
+      "&nbsp;Manual page hazmat(1) " + scroll_percent + "%";
     line_counter.style.filter = "invert(0%)";
   }
   // line_counter.innerHTML += " (press h for help)";
